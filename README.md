@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 I am pursuing <b>B.Tech in Computer Science & Engineering</b> at <b>MIT-WPU</b> <br>
-  🎓 I have completed my <b>Diploma in Computer Engineering</b>
+  🎓 I have completed my <b>Diploma in Computer Engineering from Dr.Ajeenky D.Y.Patil University</b>
 </p>
 
 ---
